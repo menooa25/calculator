@@ -39,4 +39,9 @@ while True:
             else:
                 MyIo(calc.calculate(separated_input.operation1,
                                     separated_input.operator,
+
                                     separated_input.operation2)).write()
+                                    separated_input.operation2)).write()
+print("hi there")
+
+                                   
