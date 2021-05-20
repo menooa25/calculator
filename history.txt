@@ -18,6 +18,15 @@ You entered format is invalid
 >> 
 s + 2
 Your one of the entered numbers in invalid
+>>
+
+sdf
+some some
+asd
+asd
+fs
+df
+dfg
 
 sina has added this
 >>
