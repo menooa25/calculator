@@ -20,7 +20,7 @@ class MyIo:
         with open('history.txt', 'a') as history:
             history.write(str(text) + '\n')
 
-
+print('some changes')
 command = ''
 while True:
     command = MyIo('>> ').read()
