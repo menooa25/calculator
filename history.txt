@@ -19,4 +19,5 @@ You entered format is invalid
 s + 2
 Your one of the entered numbers in invalid
 >> 
-mobin!
+mobin
+
