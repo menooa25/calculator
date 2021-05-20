@@ -1,0 +1,11 @@
+>> 
+2 + 3
+5.0
+>> 
+sd sd sdf sd
+You entered format is invalid
+>> 
+6 * 6
+36.0
+>> 
+exit
